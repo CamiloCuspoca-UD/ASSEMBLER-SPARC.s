@@ -1,5 +1,5 @@
 # SPARC.s y seguidor de línea
-En este repositorio está el calculo de velocidades, quiz antes del paro, y codigo del proyecto seguidor de línea con Cámara 0V7670.
+En este repositorio está el cálculo de velocidades, quiz antes del paro, y código del proyecto seguidor de línea con Cámara 0V7670.
 
 Los integrantes del grupo, para el seguidor de línea:
 Juan Camilo Cuspoca Delgado - 20212005043, 
