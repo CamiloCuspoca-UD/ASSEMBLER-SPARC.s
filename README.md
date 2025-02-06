@@ -2,8 +2,8 @@
 En este repositorio está el calculo de velocidades, quiz antes del paro, y codigo del proyecto seguidor de línea con Cámara 0V7670.
 
 Los integrantes del grupo, para el seguidor de línea:
-Juan Camilo Cuspoca Delgado - 20212005043
-Julian Mateo Torres - 20201005091
+Juan Camilo Cuspoca Delgado - 20212005043, 
+Julian Mateo Torres - 20201005091, 
 Estefanía Polo Molano - 20212005090
 
 Tiempo de Carrera: 1:08 minutos.
